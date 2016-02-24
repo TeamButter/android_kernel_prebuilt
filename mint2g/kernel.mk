@@ -1,5 +1,7 @@
 # Usual copyright stuffs go here. bla bla blaa
 
+LOCAL_PATH := kernel/prebuilt/mint2g
+
 # Kernel
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/kernel:kernel
